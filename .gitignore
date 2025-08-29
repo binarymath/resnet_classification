@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.egg-info/
+*.egg
+*.log
+
+# VSCode
+.vscode/
+
+# Ambientes virtuais
+.venv/
+venv/
+ENV/
+
+# Streamlit
+.streamlit/
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+
+# Dados e imagens de teste
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.gif
+*.tiff
+
+# Modelos grandes
+*.onnx
+
+# Outros
+.idea/
+*.iml
